@@ -2,7 +2,7 @@ name: "SMA Energy Meter emulator"
 description: "Simulate one or more SMA energy meters based on mqtt messages."
 version: "0.1.4"
 slug: sma
-url: "https://github.com/Roeland54/SMA-Energy-Meter-emulator"
+url: "https://github.com/Pwnyrider/SMA-Energy-Meter-emulator"
 arch:
   - aarch64
   - amd64
@@ -34,4 +34,4 @@ schema:
     - match(^((25[0-5]|(2[0-4]|1\d|[1-9]|)\d)\.?\b){4}$)?
   debug_logging: bool?
   disable_logging: bool?
-image: "ghcr.io/roeland54/{arch}-sma-energy-meter-emulator"
+image: "ghcr.io/Pwnyrider/{arch}-sma-energy-meter-emulator"

@@ -8,5 +8,5 @@ build_from:
 labels:
   org.opencontainers.image.title: "SMA Energy Meter emulator"
   org.opencontainers.image.description: "Emulate the existence of one or more SMA Energy Meters on the local network."
-  org.opencontainers.image.source: "https://github.com/Roeland54/SMA-Energy-Meter-emulator"
+  org.opencontainers.image.source: "https://github.com/Pwnyrider/SMA-Energy-Meter-emulator"
   org.opencontainers.image.licenses: "Apache License 2.0"

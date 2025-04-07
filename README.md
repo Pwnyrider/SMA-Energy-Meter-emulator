@@ -2,13 +2,13 @@
 
 This home assistant add-on can emulate the existence of one or more SMA Energy Meters on the local network. This makes it possible to use the data from other meter types and integrate them in your SMA inverter.
 
-[documentation here.](https://github.com/Roeland54/SMA-Energy-Meter-emulator/tree/main/sma/DOCS.md)
+[documentation here.](https://github.com/Pwnyrider/SMA-Energy-Meter-emulator/tree/main/sma/DOCS.md)
 
 ## Installation
 
 - Add the repository to the add-on repository:
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Froeland54%2FSMA-Energy-Meter-emulator)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FPwnyrider%2FSMA-Energy-Meter-emulator)
 
 - Install the addon from the add-on store.
 
